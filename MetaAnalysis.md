@@ -234,6 +234,7 @@ There are a number of packages specialising in genetic data: `r pkg("catmap")` c
 - `r pkg("nmadb")` provides access to a database of network meta-analyses.
 - `r pkg("KenSyn")` provides data-sets to accompany a French language book on meta-analysis in the agricultural sciences.
 - `r pkg("metabolic")` provides data and code for a published meta-analysis.
+- `r pkg("tracenma")` provides a database of 217 data-frames with aggregate study-level characteristics (that may act as effect modifiers) extracted from published systematic reviews with network meta-analysis. The database is aimed at methodology development to assess the transitivity assumption.
 
 ### Interfaces
 
